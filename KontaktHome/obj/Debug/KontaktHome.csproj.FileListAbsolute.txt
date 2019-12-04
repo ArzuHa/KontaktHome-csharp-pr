@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\KontaktHome\KontaktHome\bin\Debug\KontaktHome.exe.config
+C:\Users\User\source\repos\KontaktHome\KontaktHome\bin\Debug\KontaktHome.exe
+C:\Users\User\source\repos\KontaktHome\KontaktHome\bin\Debug\KontaktHome.pdb
+C:\Users\User\source\repos\KontaktHome\KontaktHome\obj\Debug\KontaktHome.Admin.BrandAddForm.resources
+C:\Users\User\source\repos\KontaktHome\KontaktHome\obj\Debug\KontaktHome.Admin.CatgoryAddForm.resources
+C:\Users\User\source\repos\KontaktHome\KontaktHome\obj\Debug\KontaktHome.Admin.MainFormAdmin.resources
+C:\Users\User\source\repos\KontaktHome\KontaktHome\obj\Debug\KontaktHome.Admin.ModelAddForm.resources
+C:\Users\User\source\repos\KontaktHome\KontaktHome\obj\Debug\KontaktHome.Core.Controls.Product.resources
+C:\Users\User\source\repos\KontaktHome\KontaktHome\obj\Debug\KontaktHome.RegisterForm.resources
+C:\Users\User\source\repos\KontaktHome\KontaktHome\obj\Debug\KontaktHome.Properties.Resources.resources
+C:\Users\User\source\repos\KontaktHome\KontaktHome\obj\Debug\KontaktHome.User.MainFormUser.resources
+C:\Users\User\source\repos\KontaktHome\KontaktHome\obj\Debug\KontaktHome.csproj.GenerateResource.cache
+C:\Users\User\source\repos\KontaktHome\KontaktHome\obj\Debug\KontaktHome.exe
+C:\Users\User\source\repos\KontaktHome\KontaktHome\obj\Debug\KontaktHome.pdb
+C:\Users\User\source\repos\KontaktHome\KontaktHome\obj\Debug\KontaktHome.csprojAssemblyReference.cache

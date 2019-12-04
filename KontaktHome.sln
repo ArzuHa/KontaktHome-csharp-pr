@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KontaktHome", "KontaktHome\KontaktHome.csproj", "{CFD2092B-8E97-4321-883C-0F68F882E756}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DemoDatabase", "DemoDatabase\DemoDatabase.sqlproj", "{87DB095E-B68E-4AB2-9A67-1969CEAB2104}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFD2092B-8E97-4321-883C-0F68F882E756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD2092B-8E97-4321-883C-0F68F882E756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD2092B-8E97-4321-883C-0F68F882E756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD2092B-8E97-4321-883C-0F68F882E756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87DB095E-B68E-4AB2-9A67-1969CEAB2104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87DB095E-B68E-4AB2-9A67-1969CEAB2104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87DB095E-B68E-4AB2-9A67-1969CEAB2104}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{87DB095E-B68E-4AB2-9A67-1969CEAB2104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87DB095E-B68E-4AB2-9A67-1969CEAB2104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87DB095E-B68E-4AB2-9A67-1969CEAB2104}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AC7AE1A-B9F2-447D-8A55-D9EAE0C57343}
+	EndGlobalSection
+EndGlobal
